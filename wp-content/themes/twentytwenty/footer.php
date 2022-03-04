@@ -36,7 +36,7 @@
 
 						<p class="powered-by-wordpress">
 							<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentytwenty' ) ); ?>">
-								<?php _e( 'Powered by WordPress Riyaz CI/CD', 'twentytwenty' ); ?>
+								<?php _e( 'Powered by WordPress Devops trial for CICD', 'twentytwenty' ); ?>
 							</a>
 						</p><!-- .powered-by-wordpress -->
 
